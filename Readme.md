@@ -1,0 +1,1 @@
+1. On terminal: python src/main.py 
